@@ -71,11 +71,10 @@ thesis measured, and it's the reason I build this way rather than bolting a scan
 $ ./stack.sh --list --grouped
 
   [security]     OWASP ZAP · Nuclei · Katana · SonarCloud
-                 SAST / DAST · CVSS v3.1 · IaC scanning
-                 Security headers · CSP · Threat modelling
+                 SAST / DAST  · IaC scanning · Security headers
 
   [ops]          Docker · Kubernetes · Terraform
-                 GitLab CI/CD · GitHub Actions · Nginx · Debian
+                 GitLab CI/CD · GitHub Actions · Nginx · Ubuntu
                  Prometheus · Grafana
 
   [development]  Python · TypeScript · C# · Next.js · FastAPI
