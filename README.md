@@ -4,9 +4,10 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-muhammedasef.com-0D1117?style=flat-square&labelColor=0D1117&color=00E5A0)](https://muhammedasef.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0D1117?style=flat-square&labelColor=0D1117&color=00E5A0)](www.linkedin.com/in/muhammedasef)
-[![Mail](https://img.shields.io/badge/mail-contact-0D1117?style=flat-square&labelColor=0D1117&color=00E5A0)](mailto:MAIL_ADRESIN)
+[![Portfolio](https://img.shields.io/badge/portfolio-muhammedasef.com-00E5A0?style=flat-square&labelColor=0D1117)](https://muhammedasef.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-muhammedasef-00E5A0?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammedasef)
+[![Medium](https://img.shields.io/badge/medium-@asefkmv4-00E5A0?style=flat-square&labelColor=0D1117)](https://medium.com/@asefkmv4)
+[![Mail](https://img.shields.io/badge/mail-asefkmv4@gmail.com-00E5A0?style=flat-square&labelColor=0D1117)](mailto:asefkmv4@gmail.com)
 
 </div>
 
@@ -47,7 +48,7 @@ TÜBİTAK 2209-A research project. A 7-stage pipeline (Katana → Nuclei → ZAP
 **🌐 [muhammedasef.com](https://muhammedasef.com)** — `Next.js` `Prisma` `Docker` `GitLab CI/CD`
 Personal platform on my own VPS, behind a 5-stage DevSecOps pipeline: TEST → SAST → BUILD → DAST → DEPLOY. i18n, blog module, Prometheus/Grafana monitoring, hardened security headers.
 
-**💊 [EczSearch]([https://play.google.com/store/apps/details?id=PAKET_ADIN](https://play.google.com/store/apps/details?id=com.muhammed.eczsearch))** — `Mobile` `Published`
+**💊 [EczSearch](https://play.google.com/store/apps/details?id=com.muhammed.eczsearch)** — `Mobile` `Published`
 Mobile app on Google Play for finding on-duty pharmacies quickly.
 
 <br/>
