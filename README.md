@@ -17,8 +17,8 @@
 
 ```yaml
 name:       Muhammed Asef
-role:       Management Information Systems (Senior) @ Bursa Uludağ University
-focus:      DevSecOps · Application Security · Secure CI/CD
+role:       Management Information Systems @ Bursa Uludağ University
+focus:      DevOps · DevSecOps · Application Security · Secure CI/CD
 location:   Türkiye
 status:     seeking DevSecOps / AppSec internship
 ```
