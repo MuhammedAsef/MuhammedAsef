@@ -65,7 +65,30 @@ thesis measured, and it's the reason I build this way rather than bolting a scan
 
 <br/>
 
-## `[stage 3/5]` &nbsp;DEPLOY — what I've built
+## `[stage 3/5]` &nbsp;TECH STACK
+
+```console
+$ ./stack.sh --list --grouped
+
+  [security]     OWASP ZAP · Nuclei · Katana · SonarCloud
+                 SAST / DAST · CVSS v3.1 · IaC scanning
+                 Security headers · CSP · Threat modelling
+
+  [ops]          Docker · Kubernetes · Terraform
+                 GitLab CI/CD · GitHub Actions · Nginx · Debian
+                 Prometheus · Grafana
+
+  [development]  Python · TypeScript · C# · Next.js · FastAPI
+                 PostgreSQL · Redis · Prisma
+
+  [learning]     eBPF · Falco · SLSA supply-chain security
+
+✔ 3 groups resolved — 0 vulnerabilities found
+```
+
+<br/>
+
+## `[stage 4/5]` &nbsp;DEPLOY — what I've built
 
 ### 🛡 InfraGuard Studio
 
@@ -133,21 +156,6 @@ website. Live on Google Play.
 `Mobile` `Published`
 
 **→ [Google Play](https://play.google.com/store/apps/details?id=com.muhammed.eczsearch)**
-
-<br/>
-
-## `[stage 4/5]` &nbsp;TOOLING — what I work with
-
-```
-Security          OWASP ZAP · Nuclei · Katana · SonarCloud · SAST/DAST · CVSS v3.1
-                  IaC scanning · Threat modelling · Security headers · CSP
-
-Ops               Docker · Kubernetes · Terraform · GitLab CI/CD · GitHub Actions
-                  Nginx · Debian · Prometheus · Grafana
-
-Development       Python · TypeScript · C# · Next.js · FastAPI
-                  PostgreSQL · Redis · Prisma
-```
 
 <br/>
 
