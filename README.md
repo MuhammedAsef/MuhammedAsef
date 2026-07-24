@@ -133,7 +133,7 @@ a FastAPI backend.
 ### 🌐 muhammedasef.com
 
 My portfolio and blog, but mostly an excuse to run production infrastructure I'm fully
-responsible for. Self-hosted on a Debian VPS behind the 5-stage pipeline above.
+responsible for. Self-hosted on a Ubuntu VPS behind the 5-stage pipeline above.
 
 Next.js 16 and TypeScript on the front, Prisma over PostgreSQL with Redis caching behind it,
 containerised with Docker and deployed through GitLab CI/CD. Includes internationalisation
